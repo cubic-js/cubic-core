@@ -16,7 +16,7 @@
   "dependencies": {
     "async-middleware-stack": "^1.0.1",
     "circular-json": "^0.5.3",
-    "cubic-client": "1.0.4",
+    "cubic-client": "1.0.5",
     "decache": "^4.4.0",
     "lodash": "^4.17.5",
     "mongodb": "^3.0.7",
