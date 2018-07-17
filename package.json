@@ -17,7 +17,6 @@
   "dependencies": {
     "async-middleware-stack": "^1.0.1",
     "circular-json": "^0.5.5",
-    "decache": "^4.4.0",
     "lodash": "^4.17.10",
     "mongodb": "^3.1.1",
     "redis": "^2.8.0",
@@ -27,10 +26,10 @@
     "cubic-client": "^1.0.5"
   },
   "devDependencies": {
-    "cubic-api": "1.2.1",
+    "cubic-api": "1.2.3",
     "cubic-auth": "1.1.0",
     "cubic-client": "1.1.1",
-    "cubic-core": "^1.1.1",
+    "cubic-core": "^1.1.2",
     "cubic-loader": "1.1.1",
     "eslint": "^5.1.0",
     "eslint-config-standard": "^11.0.0",
@@ -39,6 +38,8 @@
     "eslint-plugin-promise": "^3.8.0",
     "eslint-plugin-standard": "^3.1.0",
     "mocha": "^5.2.0",
-    "semantic-release": "^15.7.1"
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "semantic-release": "^15.7.2"
   }
 }
